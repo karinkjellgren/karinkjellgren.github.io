@@ -1,3 +1,5 @@
+---
+---
 
 @import "minimal-mistakes";
 
@@ -7,5 +9,5 @@
 
 .author__avatar a,
 .author__avatar a:hover {
-  opacity: 1;
+  opacity: 1 !important;
 }
