@@ -1,3 +1,11 @@
-@import "minimal-mistakes"; 
 
-.author__avatar img { max-width: 150px; }
+@import "minimal-mistakes";
+
+.author__avatar img {
+  max-width: 150px !important;
+}
+
+.author__avatar a,
+.author__avatar a:hover {
+  opacity: 1;
+}
