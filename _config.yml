@@ -74,9 +74,6 @@ author:
 
 footer:
   links:
-    - label: "Heidelberg University"
-      icon: "fas fa-fw fa-university"
-      url: "https://www.uni-heidelberg.de/"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0009-0004-2716-4512"
