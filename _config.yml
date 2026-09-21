@@ -81,6 +81,9 @@ footer:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:karin.kjellgren01@stud.uni-heidelberg.de"
 
+atom_feed:
+  hide: true
+
 defaults:
   # _posts
   - scope:
